@@ -6,7 +6,7 @@ Design: There is no winning or losing in the game. It is about an endless flight
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](screen.png)
 
 How To Play:
 
