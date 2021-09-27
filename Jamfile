@@ -141,6 +141,7 @@ GAME_NAMES =
 	Sound
 	load_wav
 	load_opus
+	Stone
 	;
 
 COMMON_NAMES =
