@@ -28,6 +28,7 @@ Oh just one more thing, if you hold the space button for too long, the screen wi
 Sources:
 - Plane Model: https://www.turbosquid.com/3d-models/free-x-mode-old-duigan-pusher/1094564
 - Music (Background) : https://audionautix.com/ Creative Commons Music by Jason Shaw on Audionautix.com
+- Plane engine: https://freesound.org/people/Suburbanwizard/sounds/457013/
 - Game idea: Inspired by LONER. https://apps.apple.com/cn/story/id1390370206 (Story in Chinese)
 
 This game was built with [NEST](NEST.md).
