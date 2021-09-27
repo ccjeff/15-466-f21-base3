@@ -10,7 +10,11 @@ Screen Shot:
 
 How To Play:
 
-Push the space button to start the game (please keep the button pushed down). If you are tired of this, just stop pushing the space button. Everything will be paused except for the calming background music. The desgined of the game is inspired by the game *LONER*. Similar to loner, there is no upgrade or score in the game. As the developers of LONER described, the goal of their game is to discover the feeling of tranquillity and loneliness:
+```
+sh run.sh
+```
+
+Push the space button to start the game (please keep the button pushed down, the stones will appear after 15s of flight). If you are tired of this, just stop pushing the space button. Everything will be paused except for the calming background music. The desgined of the game is inspired by the game *LONER*. Similar to loner, there is no upgrade or score in the game. As the developers of LONER described, the goal of their game is to discover the feeling of tranquillity and loneliness:
 
 > "What is loneliness...It is like going to a 7-24 convienient store at midnight. The store is so bright but there is few people in it. You grab your things and go home. You open the light. You don't want to talk to anyone, and you are not in a happy mood, but you just feel cozy."
 
